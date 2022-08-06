@@ -10,4 +10,4 @@ almacenas toda la información de las mascotas de una persona.
 <br><br>
 Corrección 01:<br>
 Error de visualizacion de la barra de navegación para dispositivos pequeños
-![alt](https://)
+![alt](https://github.com/Sebas2rus/PRC01-SenaSoft/blob/main/resources/images/Error%20de%20visualizacion.png)
